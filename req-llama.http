@@ -1,0 +1,11 @@
+### Translation Request Example
+POST http://127.0.0.1:8000/analyze/
+Content-Type: application/json
+
+{
+  "text": "I hated this movie!",
+  "model": "llama"
+}
+
+
+
