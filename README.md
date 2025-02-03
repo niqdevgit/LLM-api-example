@@ -3,8 +3,10 @@
 ## Usage:  
 
 ### notebook
-run the notebook code from the root of this repo. 
-create venv, for pip
+- run the notebook code from the root of this repo. 
+- create venv, for pip
+- maybe you need to fix file paths eg. /content
+- have kaggle.json ready on the same folder as this notebook
 
 ### backend
 - Clone this repo
