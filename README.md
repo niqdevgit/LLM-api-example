@@ -3,7 +3,8 @@
 ## Usage:  
 
 ### notebook
-
+run the notebook code from the root of this repo. 
+create venv, for pip
 
 ### backend
 - Clone this repo
